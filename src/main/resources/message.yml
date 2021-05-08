@@ -1,0 +1,4 @@
+lchest-wrong-command-action: "Command action '%s' is unknown please use 'create' or 'edit'."
+lchest-id-already-exists: "A chest with id %s already exists."
+lchest-edit-unnecessary-name: "The chest's name is not necessary when you edit it."
+lchest-id-not-exists: "No chest exists with id %s. Please use /lchest create id name to create one."

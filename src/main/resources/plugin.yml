@@ -1,0 +1,14 @@
+name: Lyschest
+version: @version@
+main: fr.foacs.mc.lyschest.Lyschest
+api-version: 1.16
+depend: [ Lyscore ]
+authors: [ Lehtto ]
+description: Plugin to handle chest, allow to desync chest
+website: https://foacs.ovh
+commands:
+  lchest:
+    description: Create or edit a chest
+    permission: lchest
+    usage: |
+      /<command> <<create>|<edit>> <id> [displayName]
