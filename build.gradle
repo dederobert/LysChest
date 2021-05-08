@@ -33,7 +33,7 @@ repositories {
 
 dependencies {
     compileOnly 'com.destroystokyo.paper:paper-api:1.16.5-R0.1-SNAPSHOT'
-    compile 'fr.foacs.mc:lyscore:1.1-SNAPSHOT'
+    compile 'fr.foacs.mc:lyscore:1.1'
 }
 
 processResources {
